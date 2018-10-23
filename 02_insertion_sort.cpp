@@ -1,11 +1,10 @@
-/*
+
 void insertionSort(int arr[], int n)
 {
    int i;
    for (i = 1; i < n; i++)
       insert(arr, i);
 }
-*/
 
 void insert(int arr[], int i)
 {
