@@ -8,6 +8,7 @@ A collection of sorting algorithms for studying and reference.
 - [ ] 5 - Bubblesort
 - [ ] 6 - Heapsort
 - [ ] 7 - Counting Sort
+- [ ] 8 - Shell Sort
 
 References:
 
